@@ -54,9 +54,9 @@ that I spent the first chunk of the session *not coding* — pinning down
 requirements and the decisions the brief deliberately left open — and the rest in
 a tight build → run-against-reality → fix loop.
 
-Two views below: **(A) the actual prompts I gave, verbatim and in order**, so you
-can see how I actually drove the model; and **(B) a short narrative** of what each
-phase produced.
+Two views below: **(A) the actual prompts I gave, in order** (lightly tidied for
+typos), so you can see how I actually drove the model; and **(B) a short narrative**
+of what each phase produced.
 
 ### A. The prompts I gave, in order
 

@@ -1,0 +1,8 @@
+# Core runtime deps — intentionally minimal.
+# httpx        : single HTTP client used for BOTH source fetching and all LLM
+#                provider REST calls (no per-provider SDK sprawl).
+# trafilatura  : best-in-class main-content extraction from messy real-world HTML.
+httpx>=0.27
+trafilatura>=1.9
+# trafilatura -> justext -> lxml needs the (now separate) html-clean module.
+lxml_html_clean>=0.1

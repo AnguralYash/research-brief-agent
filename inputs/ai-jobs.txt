@@ -1,0 +1,9 @@
+# Sample input: one URL per line. Blank lines and #-comments are ignored.
+# Topic is optional — if you don't pass --topic, the agent infers it from the sources.
+# Suggested topic for this set: "The impact of AI on jobs and the labor market"
+
+https://insights.som.yale.edu/insights/the-real-job-destruction-from-ai-is-hitting-before-careers-can-start
+https://www.library.hbs.edu/working-knowledge/enhance-or-eliminate-how-ai-will-likely-change-these-jobs
+https://gloat.com/blog/ai-labor-market/
+https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/
+https://www.jpmorgan.com/insights/global-research/artificial-intelligence/ai-impact-job-growth

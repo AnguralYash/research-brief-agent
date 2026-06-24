@@ -1,0 +1,9 @@
+# Stress test: five URLs with NO common topic at all.
+# Exercises topic inference on incoherent input + the relevance guard at scale.
+#   coffee & health · nuclear/climate science · black holes · baking cakes · Vikings
+
+https://www.medicalnewstoday.com/articles/270202
+https://world-nuclear.org/information-library/energy-and-the-environment/climate-change-the-science.aspx
+https://theconversation.com/what-is-a-black-hole-an-astronomer-explains-the-warped-world-of-event-horizons-235630
+https://theconversation.com/the-science-of-baking-the-perfect-cake-explained-by-a-chemist-200000
+https://theconversation.com/who-were-the-vikings-and-where-did-they-come-from-200001

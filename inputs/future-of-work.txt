@@ -1,0 +1,9 @@
+# Test topic: the future of work — remote work & the four-day week.
+# Deliberately mixes scraper-friendly sources with two that block datacenter IPs,
+# so this also exercises graceful degradation on a fresh source set.
+
+https://theconversation.com/four-day-work-week-the-data-is-in-and-its-good-for-business-211045
+https://www.gallup.com/workplace/397751/returning-office-current-preferred-future-state-remote-work.aspx
+https://hbr.org/2020/08/research-knowledge-workers-are-more-productive-from-home
+https://www.bbc.com/worklife/article/20210604-the-case-for-never-going-back-to-the-office
+https://www.weforum.org/stories/2023/02/four-day-work-week-uk-pilot/
